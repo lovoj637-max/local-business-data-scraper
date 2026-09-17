@@ -20,4 +20,4 @@ A Python-based backend automation tool built to eliminate manual data entry. Thi
 2. Run the automation script:
 `python scraper.py`
 
-click here for one minutes 55 second videos explainig: https://www.loom.com/share/db2c393a6def486b89065f084b4a0764
+click here for one minutes 55 second videos explaining: https://www.loom.com/share/db2c393a6def486b89065f084b4a0764
